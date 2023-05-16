@@ -1,4 +1,4 @@
-# RootFindingAlgorithms
+# Root Finding Algorithms
 This is a collection of implementations of various root finding algorithms.
 
 <details>
